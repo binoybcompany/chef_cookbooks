@@ -1,4 +1,4 @@
-name 'opsworks_mysql'
+name 'mysql_wrapper'
 maintainer       'binoy'
 maintainer_email 'binoy@gmail.com'
 license          'all_rights'
